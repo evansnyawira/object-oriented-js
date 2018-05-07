@@ -1,0 +1,9 @@
+{
+  "name": "object-oriented-js",
+  "version": "1.0.0",
+  "description": "object oriented programming udacity courses",
+  "main": "app.js",
+  "repository": "https://github.com/evansnyawira/object-oriented-js.git",
+  "author": "evansnyawira <n.nyawira7@students.ku.ac.ke>",
+  "license": "MIT"
+}
